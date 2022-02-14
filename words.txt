@@ -1,0 +1,7 @@
+# format: <word> - <definition>
+# use a hashtag as the first character for comments
+παύει - he/she/it stops
+λύσις - splitting
+ῥίπτω - I throw
+πάσχω - I suffer
+
